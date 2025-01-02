@@ -56,7 +56,7 @@ christmas-cards/
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/christmas-cards.git
+git clone https://github.com/tu-usuario/christmas-cards.git](https://github.com/StudentNPD/tarjetaNavidad.git)
 ```
 
 2. Abre cualquiera de los archivos HTML en tu navegador:
