@@ -109,11 +109,3 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 
 
-## 👥 Autores
-
-- Bootcamp Java 2025
-
-## 🙏 Agradecimientos
-
-- A Bootstrap por proporcionar un excelente framework
-- A la comunidad de desarrolladores por sus contribuciones e inspiración
